@@ -4,4 +4,8 @@ public class HelloITI
 	{
 		System.out.printf("Hello ITI");
 	}
+	void printHelloGit()
+	{
+		System.out.printf("Hello Git");
+	}
 }
