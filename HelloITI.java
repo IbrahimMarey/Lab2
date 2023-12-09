@@ -8,6 +8,6 @@ public class HelloITI
 	}
 	void printHelloGit()
 	{
-		System.out.printf("Hello Git");
+		System.out.printf("Hello Git & virsioning controll");
 	}
 }
