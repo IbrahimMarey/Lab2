@@ -5,6 +5,7 @@ public class HelloITI
 		System.out.printf("Hello ITI");
 		printHelloGit();
 		System.out.println("Hello Lab");
+		printHelloGit();
 
 	}
 	void printHelloGit()
