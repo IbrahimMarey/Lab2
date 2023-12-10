@@ -4,6 +4,7 @@ public class HelloSwift
 	{
 		System.out.printf("Hello World");
 		System.out.printf("Hello World");
+		System.out.printf("Hello World");
 
 ////////////////////////////////////////////
 
